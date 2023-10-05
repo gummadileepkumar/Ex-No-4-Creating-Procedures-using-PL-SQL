@@ -43,7 +43,8 @@ create table employee8(Emp_id NUMBER primary key ,Ename varchar (100) , Dept var
 1  select * from employee1;
 
 ## Output:
-![image](https://github.com/Priya-Loganathan/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/121166075/cf703afb-4ea7-435f-83a5-fb70ff378dd0)
+![dbms_4 1](https://github.com/gummadileepkumar/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/118707761/f2b77ac7-db6c-4a40-b5a4-18ba9f77f048)
+
 
 ## Result:
 Thus, a procedure is created using PL/SQL.
